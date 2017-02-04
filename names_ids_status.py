@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import boto3
+#import boto3
 import boto.ec2
 
 # If you need to connect to one region, you can uncomment the below line and then comment the first 'for'
